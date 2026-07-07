@@ -4,7 +4,9 @@ A light, IDE-inspired workspace for engineers, built with **Next.js 16 (App
 Router) + TypeScript + Tailwind CSS v4**, powered by the **Gemini API**, with
 a real **SQLite database** for Notes & Knowledge Base.
 
-Admin user: **Vaishnavi Singh** — `vusk08@gmail.com`
+
+<img width="1918" height="1078" alt="Screenshot 2026-07-08 003807" src="https://github.com/user-attachments/assets/d0a53f9a-438a-4648-9c7f-9bc848706d55" />
+
 
 ## What's working right now
 
